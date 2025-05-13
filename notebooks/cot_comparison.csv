@@ -1,0 +1,26 @@
+Problem,Standard Answer,CoT Answer,Few-shot CoT Answer
+"['If a shirt originally costs $100 and is on sale for 25% off, and then an additional 10% is taken off the discounted price, what is the final price of the shirt?']",$67.50,$67.50,$67.50
+['A train travels at a speed of 60 miles per hour. How far will it travel in 2.5 hours?'],,"assistant
+
+To solve this problem, we need to multiply the speed of the train by the time it travels","5 hours
+Distance = 150 miles
+
+So, the train will travel 150 miles in 2"
+"['If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?']","Let's set up the proportion:
+
+5 machines / 5 minutes = 100 machines / x minutes
+
+We can cross-multiply to get:
+
+5x = 100 * 5
+
+Simplifying the equation, we get:
+
+5x = 500
+
+Dividing both sides by 5, we get:
+
+x = 100
+
+So, it would take 100 machines 100 minutes to make 100 widgets","Therefore, it would take 100 machines 500 minutes to make 100 widgets","Therefore, it will take 100 machines 41"
+['A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?'],$0.05,$0.05,$0.05

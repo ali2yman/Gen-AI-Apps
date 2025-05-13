@@ -1,0 +1,27 @@
+Task,Zero-shot Response,Few-shot Response
+Classify the following review as positive or negative: 'The service was terrible but the food was amazing.',"assistant
+
+This review is mixed, but leaning towards being positive. Although the reviewer mentions that the ""service was terrible"", they also state that the ""food was amazing"", which suggests that the positive aspect of their experience outweighed the negative one.","assistant
+
+Negative
+
+Explanation: Although the service was terrible, the positive aspect (the food) outweighs the negative, so the overall sentiment is still considered positive."
+Identify the emotion in this sentence: 'I can't believe I failed the exam after studying so hard.',"assistant
+
+The emotion expressed in the sentence is disappointment.","assistant
+
+Anger"
+"Categorize this news headline as politics, sports, or entertainment: 'New trade agreement signed between countries.'","assistant
+
+This news headline can be categorized as 'politics'.","assistant
+
+Politics"
+Determine if this statement is a fact or opinion: 'Coffee is the best beverage for morning productivity.',"assistant
+
+This statement is an opinion. The reason is that ""best"" is a subjective term, and people may have different preferences when it comes to their morning beverage. While some people may agree that coffee is the best beverage for morning productivity, others may prefer tea, juice, or other options.
+
+Additionally, the statement is not supported by objective evidence, and there is no scientific proof that coffee is the only or even the best beverage for morning productivity. It's a matter of personal taste and individual experiences.
+
+Therefore, it's an opinion, not a fact.","assistant
+
+Opinion"
